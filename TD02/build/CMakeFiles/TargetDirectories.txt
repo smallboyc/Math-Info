@@ -1,0 +1,5 @@
+/Users/smallboyc/Documents/IMAC/imac2/math-info/TD02/build/CMakeFiles/exo_02.dir
+/Users/smallboyc/Documents/IMAC/imac2/math-info/TD02/build/CMakeFiles/exo_03.dir
+/Users/smallboyc/Documents/IMAC/imac2/math-info/TD02/build/CMakeFiles/exo_04.dir
+/Users/smallboyc/Documents/IMAC/imac2/math-info/TD02/build/CMakeFiles/edit_cache.dir
+/Users/smallboyc/Documents/IMAC/imac2/math-info/TD02/build/CMakeFiles/rebuild_cache.dir
