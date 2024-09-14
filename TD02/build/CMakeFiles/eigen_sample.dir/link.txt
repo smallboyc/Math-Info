@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/eigen_sample.dir/src/exo_02.cpp.o CMakeFiles/eigen_sample.dir/src/exo_03.cpp.o -o eigen_sample
